@@ -2,5 +2,9 @@
     background-color: white;
     color: white;
     background-position: 0%;
-
+    padding:20px;
+}
+body{
+    color: white;
+    padding:7px;
 }
